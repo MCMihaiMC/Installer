@@ -1,0 +1,9 @@
+C:\dev\Installer\Installer.Services\bin\Debug\netcoreapp2.1\Installer.Services.deps.json
+C:\dev\Installer\Installer.Services\bin\Debug\netcoreapp2.1\Installer.Services.dll
+C:\dev\Installer\Installer.Services\bin\Debug\netcoreapp2.1\Installer.Services.pdb
+C:\dev\Installer\Installer.Services\obj\Debug\netcoreapp2.1\Installer.Services.csproj.CoreCompileInputs.cache
+C:\dev\Installer\Installer.Services\obj\Debug\netcoreapp2.1\Installer.Services.AssemblyInfoInputs.cache
+C:\dev\Installer\Installer.Services\obj\Debug\netcoreapp2.1\Installer.Services.AssemblyInfo.cs
+C:\dev\Installer\Installer.Services\obj\Debug\netcoreapp2.1\Installer.Services.dll
+C:\dev\Installer\Installer.Services\obj\Debug\netcoreapp2.1\Installer.Services.pdb
+C:\dev\Installer\Installer.Services\obj\Debug\netcoreapp2.1\Installer.Services.csprojAssemblyReference.cache

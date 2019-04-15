@@ -1,0 +1,4 @@
+C:\dev\Installer\Installer.Logic\obj\Debug\netcoreapp2.1\Installer.Logic.csproj.CoreCompileInputs.cache
+C:\dev\Installer\Installer.Logic\obj\Debug\netcoreapp2.1\Installer.Logic.AssemblyInfoInputs.cache
+C:\dev\Installer\Installer.Logic\obj\Debug\netcoreapp2.1\Installer.Logic.AssemblyInfo.cs
+C:\dev\Installer\Installer.Logic\obj\Debug\netcoreapp2.1\Installer.Logic.csprojAssemblyReference.cache

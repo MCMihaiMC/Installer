@@ -1,0 +1,9 @@
+C:\dev\Installer\Installer.Dto\bin\Debug\netcoreapp2.1\Installer.Dto.deps.json
+C:\dev\Installer\Installer.Dto\bin\Debug\netcoreapp2.1\Installer.Dto.dll
+C:\dev\Installer\Installer.Dto\bin\Debug\netcoreapp2.1\Installer.Dto.pdb
+C:\dev\Installer\Installer.Dto\obj\Debug\netcoreapp2.1\Installer.Dto.csprojAssemblyReference.cache
+C:\dev\Installer\Installer.Dto\obj\Debug\netcoreapp2.1\Installer.Dto.csproj.CoreCompileInputs.cache
+C:\dev\Installer\Installer.Dto\obj\Debug\netcoreapp2.1\Installer.Dto.AssemblyInfoInputs.cache
+C:\dev\Installer\Installer.Dto\obj\Debug\netcoreapp2.1\Installer.Dto.AssemblyInfo.cs
+C:\dev\Installer\Installer.Dto\obj\Debug\netcoreapp2.1\Installer.Dto.dll
+C:\dev\Installer\Installer.Dto\obj\Debug\netcoreapp2.1\Installer.Dto.pdb

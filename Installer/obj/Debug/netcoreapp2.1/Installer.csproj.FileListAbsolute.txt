@@ -1,0 +1,16 @@
+C:\dev\Installer\Installer\bin\Debug\netcoreapp2.1\Installer.deps.json
+C:\dev\Installer\Installer\bin\Debug\netcoreapp2.1\Installer.runtimeconfig.json
+C:\dev\Installer\Installer\bin\Debug\netcoreapp2.1\Installer.runtimeconfig.dev.json
+C:\dev\Installer\Installer\bin\Debug\netcoreapp2.1\Installer.dll
+C:\dev\Installer\Installer\bin\Debug\netcoreapp2.1\Installer.pdb
+C:\dev\Installer\Installer\bin\Debug\netcoreapp2.1\Installer.Business.dll
+C:\dev\Installer\Installer\bin\Debug\netcoreapp2.1\Installer.Services.dll
+C:\dev\Installer\Installer\bin\Debug\netcoreapp2.1\Installer.Business.pdb
+C:\dev\Installer\Installer\bin\Debug\netcoreapp2.1\Installer.Services.pdb
+C:\dev\Installer\Installer\obj\Debug\netcoreapp2.1\Installer.csprojAssemblyReference.cache
+C:\dev\Installer\Installer\obj\Debug\netcoreapp2.1\Installer.csproj.CoreCompileInputs.cache
+C:\dev\Installer\Installer\obj\Debug\netcoreapp2.1\Installer.AssemblyInfoInputs.cache
+C:\dev\Installer\Installer\obj\Debug\netcoreapp2.1\Installer.AssemblyInfo.cs
+C:\dev\Installer\Installer\obj\Debug\netcoreapp2.1\Installer.csproj.CopyComplete
+C:\dev\Installer\Installer\obj\Debug\netcoreapp2.1\Installer.dll
+C:\dev\Installer\Installer\obj\Debug\netcoreapp2.1\Installer.pdb

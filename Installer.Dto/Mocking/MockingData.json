@@ -1,0 +1,125 @@
+{
+  "Systems": [
+    {
+      "SystemName": "Test01_OK",
+      "SystemOS": "Windows",
+      "NumberOfPartitions": 1,
+      "Partitions": [
+        {
+          "name": "OSPartition",
+          "Type": "NTFS",
+          "TotalSpaceGB": 160,
+          "FreeSpaceGB": 110
+        }
+      ]
+    },
+    {
+      "SystemName": "Test02_Failed",
+      "SystemOS": "Windows",
+      "NumberOfPartitions": 1,
+      "Partitions": [
+        {
+          "name": "OSPartition",
+          "Type": "NTFS",
+          "TotalSpaceGB": 160,
+          "FreeSpaceGB": 40
+        }
+      ]
+    },
+    {
+      "SystemName": "Test03_Failed",
+      "SystemOS": "Windows",
+      "NumberOfPartitions": 2,
+      "Partitions": [
+        {
+          "name": "OSPartition",
+          "Type": "NTFS",
+          "TotalSpaceGB": 160,
+          "FreeSpaceGB": 20
+        },
+        {
+          "name": "Storage",
+          "Type": "NTFS",
+          "TotalSpaceGB": 250,
+          "FreeSpaceGB": 25
+        }
+      ]
+    },
+    {
+      "SystemName": "Test04_Failed",
+      "SystemOS": "Windows",
+      "NumberOfPartitions": 2,
+      "Partitions": [
+        {
+          "name": "OSPartition",
+          "Type": "NTFS",
+          "TotalSpaceGB": 160,
+          "FreeSpaceGB": 50
+        },
+        {
+          "name": "Storage",
+          "Type": "NTFS",
+          "TotalSpaceGB": 250,
+          "FreeSpaceGB": 25
+        }
+      ]
+    },
+    {
+      "SystemName": "Test04_Passed_OS",
+      "SystemOS": "Windows",
+      "NumberOfPartitions": 2,
+      "Partitions": [
+        {
+          "name": "OSPartition",
+          "Type": "NTFS",
+          "TotalSpaceGB": 250,
+          "FreeSpaceGB": 120
+        },
+        {
+          "name": "Storage",
+          "Type": "NTFS",
+          "TotalSpaceGB": 250,
+          "FreeSpaceGB": 25
+        }
+      ]
+    },
+    {
+      "SystemName": "Test04_Passed_Storage",
+      "SystemOS": "Windows",
+      "NumberOfPartitions": 2,
+      "Partitions": [
+        {
+          "name": "OSPartition",
+          "Type": "NTFS",
+          "TotalSpaceGB": 250,
+          "FreeSpaceGB": 25
+        },
+        {
+          "name": "Storage",
+          "Type": "NTFS",
+          "TotalSpaceGB": 250,
+          "FreeSpaceGB": 180
+        }
+      ]
+    },
+    {
+      "SystemName": "Test04_Passed_Both",
+      "SystemOS": "Windows",
+      "NumberOfPartitions": 2,
+      "Partitions": [
+        {
+          "name": "OSPartition",
+          "Type": "NTFS",
+          "TotalSpaceGB": 250,
+          "FreeSpaceGB": 60
+        },
+        {
+          "name": "Storage",
+          "Type": "NTFS",
+          "TotalSpaceGB": 250,
+          "FreeSpaceGB": 70
+        }
+      ]
+    }
+  ]
+}

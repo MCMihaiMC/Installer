@@ -1,0 +1,7 @@
+{
+  "Configuration": {
+    "Title": "Console Installer",
+    "DatabaseSpaceRequirement": 30,
+    "SoftwareSpaceRequirement": 50
+  }
+}

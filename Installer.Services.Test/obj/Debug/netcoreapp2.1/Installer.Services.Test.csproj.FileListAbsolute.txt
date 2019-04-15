@@ -1,0 +1,17 @@
+C:\dev\Installer\Installer.Services.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\dev\Installer\Installer.Services.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\dev\Installer\Installer.Services.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\dev\Installer\Installer.Services.Test\bin\Debug\netcoreapp2.1\Installer.Services.Test.deps.json
+C:\dev\Installer\Installer.Services.Test\bin\Debug\netcoreapp2.1\Installer.Services.Test.runtimeconfig.json
+C:\dev\Installer\Installer.Services.Test\bin\Debug\netcoreapp2.1\Installer.Services.Test.runtimeconfig.dev.json
+C:\dev\Installer\Installer.Services.Test\bin\Debug\netcoreapp2.1\Installer.Services.Test.dll
+C:\dev\Installer\Installer.Services.Test\bin\Debug\netcoreapp2.1\Installer.Services.Test.pdb
+C:\dev\Installer\Installer.Services.Test\obj\Debug\netcoreapp2.1\Installer.Services.Test.csproj.CoreCompileInputs.cache
+C:\dev\Installer\Installer.Services.Test\obj\Debug\netcoreapp2.1\Installer.Services.Test.AssemblyInfoInputs.cache
+C:\dev\Installer\Installer.Services.Test\obj\Debug\netcoreapp2.1\Installer.Services.Test.AssemblyInfo.cs
+C:\dev\Installer\Installer.Services.Test\obj\Debug\netcoreapp2.1\Installer.Services.Test.dll
+C:\dev\Installer\Installer.Services.Test\obj\Debug\netcoreapp2.1\Installer.Services.Test.pdb
+C:\dev\Installer\Installer.Services.Test\obj\Debug\netcoreapp2.1\Installer.Services.Test.csprojAssemblyReference.cache
+C:\dev\Installer\Installer.Services.Test\bin\Debug\netcoreapp2.1\Installer.Services.dll
+C:\dev\Installer\Installer.Services.Test\bin\Debug\netcoreapp2.1\Installer.Services.pdb
+C:\dev\Installer\Installer.Services.Test\obj\Debug\netcoreapp2.1\Installer.Services.Test.csproj.CopyComplete
